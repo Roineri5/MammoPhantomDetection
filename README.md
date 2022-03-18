@@ -2,7 +2,7 @@
 
 The mammography phantom detection model is available for all users.
 
-The model is provided as execute format (.exe) with sample test data,
+The trained network for the mammography phantom object detection is provided as execute format (.exe) with sample test data,
 and this model requires MATLAB run-time v9.9 (https://www.mathworks.com/products/compiler/matlab-runtime.html)
 
 For Mammography ACR phantom object detection model, input file format is *.png, 
