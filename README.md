@@ -1,13 +1,12 @@
 # MammoPhantomDetection
 
-Hello.
+Mammography phantom detection model available for all user.
 
-Mammography phantom detection model available for all user
-
-the model is present as execute format (.exe) with sample test data
+The model is provided as execute format (.exe) with sample test data,
 and this model require MATLAB run-time v9.9 (https://www.mathworks.com/products/compiler/matlab-runtime.html)
 
-for model 1 (Mammography ACR phantom detection), input format is *.dcm
-for model 2 (Mammography ACR phantom object detection), input file format is *.png, input image of phantom region should be cropped
+For Mammography ACR phantom object detection model, input file format is *.png, 
+and input image of phantom region should be cropped
 
-please complete the model requist form, and we will send you a download link via email.
+The software download link is below:
+(https://drive.google.com/file/d/1CgHkdCg5g5qI4KM4r0jhSu6pxn023vlK/view?usp=sharing)
