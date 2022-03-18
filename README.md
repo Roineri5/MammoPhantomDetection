@@ -1,6 +1,6 @@
 # MammoPhantomDetection
 
-Mammography phantom detection model available for all user.
+Mammography phantom detection model is available for all user.
 
 The model is provided as execute format (.exe) with sample test data,
 and this model require MATLAB run-time v9.9 (https://www.mathworks.com/products/compiler/matlab-runtime.html)
