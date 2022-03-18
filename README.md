@@ -9,3 +9,5 @@ and this model require MATLAB run-time v9.9 (https://www.mathworks.com/products/
 
 for model 1 (Mammography ACR phantom detection), input format is *.dcm
 for model 2 (Mammography ACR phantom object detection), input file format is *.png, input image of phantom region should be cropped
+
+please complete the model requist form, and we will send you a download link via email.
