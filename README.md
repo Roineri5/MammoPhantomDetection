@@ -9,7 +9,7 @@ For Mammography ACR phantom object detection model, input file format is *.png,
 and input image of the phantom region should be cropped
 
 The software download link is below:
-(https://drive.google.com/file/d/1CgHkdCg5g5qI4KM4r0jhSu6pxn023vlK/view?usp=sharing)
+(https://drive.google.com/file/d/1K2gwliCzPtOR0yKRMbs69cLiqh4FnV8A/view?usp=sharing)
 
 
 How to use: (The software is tested on Windows 10 only.)
